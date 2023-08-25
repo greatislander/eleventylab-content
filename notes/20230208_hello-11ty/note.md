@@ -1,5 +1,5 @@
 ---
-title: Hello 11ty
+title: Inclusive Design Guide
 tags: note
 layout: note
 date: 2023-02-08 15:30:00
